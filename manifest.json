@@ -5,8 +5,8 @@
   "start_url": "/zulfikar-siba/",
   "scope": "/zulfikar-siba/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#2563eb",
+  "background_color": "#f7f8fa",
+  "theme_color": "#05C46B",
   "icons": [
     {
       "src": "assets/logo-CGvUXxpw.png",
